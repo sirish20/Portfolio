@@ -27,20 +27,20 @@ const Project=()=>{
                 <img src="Screenshot (88).png" className="w-full h-[70%] object-cover overflow-hidden  rounded-t-xl">
                   </img>
                 <div className="px-5 font-semibold text-xl text-gray-700">Home page
-                   <p className="text-xs pt-1 text-gray-500">"Globally most trusted site for films and series information, reviews and ratings."</p>
+                   <p className="text-xs pt-1 text-gray-500">Globally most trusted site for films and series information, reviews and ratings.</p>
                  </div>
               </div>
 
              <div className="w-[300px] h-[250px]   absolute z-10 bg-gray-100 translate-x-[10vw] translate-y-[4vw] transfrom -rotate-6 shadow-lg rounded-xl">
               <img src="Screenshot (92).png" className="w-full h-[70%]  object-cover overflow-hidden  rounded-t-xl"></img>
              <div className="px-5 font-semibold text-xl text-gray-700">Recommended for you
-                   <p className="text-xs pt-1 text-gray-500">"Alone we can do so little; together we can do so much." </p>
+                   <p className="text-xs pt-1 text-gray-500">Alone we can do so little; together we can do so much. </p>
                  </div>
               </div>
 
              <div className="w-[300px] h-[250px]   bg-gray-100 translate-x-[4vw] translate-y-[2vw] transfrom -rotate-12 shadow-lg rounded-xl"><img src="Screenshot (90).png" className="w-full h-[70%] object-cover overflow-hidden  rounded-t-xl"></img>
              <div className="px-5 font-semibold text-xl text-gray-700">Top Rated 
-                   <p className="text-xs pt-1 text-gray-500">"Must watch these all movies once in life time."</p>
+                   <p className="text-xs pt-1 text-gray-500">Must watch these all movies once in life time.</p>
                  </div>
               </div>
         </div>
@@ -57,21 +57,21 @@ const Project=()=>{
              <img src="Screenshot (79).png" className="w-full h-[70%] object-cover overflow-hidden  rounded-t-xl">
                   </img>
                 <div className="px-5 font-semibold text-xl text-gray-700">Home page
-                   <p className="text-xs pt-1 text-gray-500">"Unlock the Magic of Every Occasion with Event Crackers."</p>
+                   <p className="text-xs pt-1 text-gray-500">Unlock the Magic of Every Occasion with Event Crackers.</p>
               </div>
              </div>
 
              <div className="w-[300px] h-[250px]  bg-gray-100 translate-x-[10vw] translate-y-[4vw] transfrom rotate-6 shadow-lg rounded-xl absolute z-10 ">
              <img src="Screenshot (87).png" className="w-full h-[70%]  object-cover overflow-hidden  rounded-t-xl"></img>
              <div className="px-5 font-semibold text-xl text-gray-700">Events We Arranged
-                   <p className="text-xs pt-1 text-gray-500">"Alone we can do so little; together we can do so much." </p>
+                   <p className="text-xs pt-1 text-gray-500">Alone we can do so little; together we can do so much.</p>
                  </div>
              </div>
              
              <div className="w-[300px] h-[250px]  bg-gray-100 translate-x-[18vw] translate-y-[2vw] transfrom rotate-12 shadow-lg rounded-xl z-5 ">
              <img src="Screenshot (81).png" className="w-full h-[70%] object-cover overflow-hidden  rounded-t-xl"></img>
              <div className="px-5 font-semibold text-xl text-gray-700">Our Team
-                   <p className="text-xs pt-1 text-gray-500">"Event Crackers-Eveything is here all the time. "</p>
+                   <p className="text-xs pt-1 text-gray-500">Event Crackers-Eveything is here all the time. </p>
                  </div>
              </div>
         </div>

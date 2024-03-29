@@ -6,7 +6,7 @@ const P1=()=>{
      <>
      <div className="sm:flex h-full ">
         <div className="Part1    pl-[16vw] py-[12vw] ">
-             <div className="flex items-center justify-start"><MdWavingHand className="text-[6vw] sm:text-[4vw]"/><h1 className="text-[6vw] sm:text-[4vw] font-extrabold ml-[1vw] text-black  font-sans ">Hi,I'm Shubham</h1></div>
+             <div className="flex items-center justify-start"><MdWavingHand className="text-[6vw] sm:text-[4vw]"/><h1 className="text-[6vw] sm:text-[4vw] font-extrabold ml-[1vw] text-black  font-sans ">Hi,I am Shubham</h1></div>
             <p className="text-xl  mt-[2vw] text-gray-700 "> An Engineering student with a love for Competitive Coding, Data Structures and Algorithms and Web Development. </p>
         </div>
         <div className="Part2  pr-[5vw] sm:py-[8vw] pl-[5vw] sm:pl-0">
