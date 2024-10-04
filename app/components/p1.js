@@ -23,7 +23,7 @@ const P1=()=>{
     <div className="flex items-center justify-start">
       <MdWavingHand className="text-[6vw] sm:text-[4vw] text-cyan-400 animate-pulse" /> 
       <h1 className="text-[6vw] sm:text-[4vw] font-extrabold ml-[1vw] text-cyan-400 font-[Orbitron] tracking-widest">
-        Hi, I'm Shubham
+        Hi, I am Shubham
       </h1>
     </div>
     <p className="text-xl mt-[2vw] text-gray-300 font-[Orbitron] tracking-wide hover:text-cyan-200 transition duration-300">

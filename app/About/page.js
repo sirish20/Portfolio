@@ -54,7 +54,7 @@ const About=()=>{
            style={{ backgroundImage: `url('https://m.media-amazon.com/images/I/71k7V0QvcdL._AC_UF1000,1000_QL80_.jpg')` }}>
         <div className="absolute inset-0 bg-gray-900/70 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-center p-4">
           <h2 className="text-xl font-bold">Courage to be Disliked</h2>
-          <p>Valuable lessons on living freely without concern for others’ judgment. Our all feelings are our choices.</p>
+          <p>Valuable lessons on living freely without concern for others judgment. Our all feelings are our choices.</p>
         </div>
       </div>
 
@@ -72,7 +72,7 @@ const About=()=>{
            style={{ backgroundImage: `url('https://m.media-amazon.com/images/I/612ByvNe0TL._AC_UF1000,1000_QL80_.jpg')` }}>
         <div className="absolute inset-0 bg-gray-900/70 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-center p-4">
           <h2 className="text-xl font-bold">Alchemist</h2>
-          <p>Learned the importance of following one's dreams and listening to the heart, believe that fortune favours the brave.</p>
+          <p>Learned the importance of following ones dreams and listening to the heart, believe that fortune favours the brave.</p>
         </div>
       </div>
 
